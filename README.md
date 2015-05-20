@@ -1,6 +1,8 @@
-=== Rocket Form Express - Wordpress Form builder ===
+Rocket Form Express - Wordpress Form builder
+======================
+
 Contributors: softdiscover
-Donate link: http://www.rocket-form.com/
+Donate link: http://codecanyon.net/item/rocket-form-wordpress-form-builder/11057544?ref=Softdiscover
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: ajax forms, responsive, form generator, form creator, form, forms, simple forms, professional forms, quick forms, form builder, form designs, contact form, validation, form builder, contact form builder, form manager, form creator, form generator, contact us, contact forms plugin, contact form plugin, bootstrap forms, jquery forms, ajax, confirmation mail
